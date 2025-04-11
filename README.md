@@ -8,19 +8,16 @@ LHiCo's implementation of OpenDrift to Cananeia and Santos  (ECOM) and Amazon (R
 
 2. Clone this github repository:
 
-  
-   git clone https://github.com/arian-dialectaquiz/opendrift_lhico.git
+    git clone https://github.com/arian-dialectaquiz/opendrift_lhico.git
 
-
-   
-3. Create environment with the required dependencies and install OpenDrift
+4. Create environment with the required dependencies and install OpenDrift
 
     cd opendrift_lhico/
     mamba env create -f environment.yml
     conda activate opendrift
     pip install --no-deps -e .
 
-4. Choose the eulerian model to be used:
+5. Choose the eulerian model to be used:
     ecom
     roms
 

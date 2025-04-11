@@ -1,4 +1,4 @@
-# opendrift_lhico intalling
+# opendrift_lhico installing
 LHiCo's implementation of OpenDrift to Cananeia and Santos  (ECOM) and Amazon (ROMS) estuaries and South Brazil Bight (ECOM and ROMS).
 
 
@@ -8,7 +8,9 @@ LHiCo's implementation of OpenDrift to Cananeia and Santos  (ECOM) and Amazon (R
 
 2. Clone this github repository:
 
- git clone   https://github.com/arian-dialectaquiz/opendrift_lhico.git
+    """"
+     git clone https://github.com/arian-dialectaquiz/opendrift_lhico.git
+    """ 
 
    
 3. Create environment with the required dependencies and install OpenDrift

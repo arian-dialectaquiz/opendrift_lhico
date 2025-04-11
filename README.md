@@ -1,5 +1,6 @@
 # opendrift_lhico installing
 LHiCo's implementation of OpenDrift to Cananeia and Santos  (ECOM) and Amazon (ROMS) estuaries and South Brazil Bight (ECOM and ROMS).
+Opendrift version 1.11
 
 
 1. install Mambaforge:
